@@ -124,11 +124,7 @@ Through practical experience with Tableau, I developed a solid foundation in das
 
 <img width="1004" height="797" alt="image" src="https://github.com/user-attachments/assets/0d741f83-e070-4b8a-b3f9-8dce2429741b" />
 
-<img width="1004" height="560" alt="image" src="https://github.com/user-attachments/assets/34fe00be-19af-4976-b58f-7cff2694e294" />
 
-<img width="1004" height="568" alt="image" src="https://github.com/user-attachments/assets/6a52be50-4fe7-437c-91e1-2d16af3584e3" />
-
-<img width="1004" height="676" alt="image" src="https://github.com/user-attachments/assets/f608fd06-124b-433b-9013-1f06d7ff5cbe" />
 
 
 
